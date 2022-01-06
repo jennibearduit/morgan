@@ -6,6 +6,8 @@ Equipped with a simple Graphical User Interface (GUI), Morgan is optimized for u
 Download Morgan [here](https://github.com/jennibearduit/ip/releases) and you'll never have to worry about missing 
 a single deadline! 
 
+<img src="docs/Ui.png" width="400px"/> 
+
 ## Commands
 
 1. `help` : lists all available commands in Morgan.
